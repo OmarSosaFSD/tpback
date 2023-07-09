@@ -38,7 +38,7 @@
        
     </div>
     <div class="card-footer text-muted">
-        puto el que lee
+        Narnia
     </div>
 </div>
 <?php require_once("../../templates/footer.php")?>
