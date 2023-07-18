@@ -25,7 +25,7 @@ $lista_tbl_puestos = $sentencia->fetchAll(PDO::FETCH_ASSOC);
     </div>
     <div class="card-body">
     <div class="table-responsive">
-    <table class="table table-primary">
+    <table class="table table">
         <thead>
             <tr>
                 <th scope="col">ID</th>
